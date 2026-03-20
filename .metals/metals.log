@@ -1,0 +1,18 @@
+2026.03.20 22:10:56 INFO  Started: Metals version 1.6.6 in folders '/Users/santi21/github-actions' for client Visual Studio Code 1.98.2.
+2026.03.20 22:10:56 INFO  Memory monitor started
+2026.03.20 22:10:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.20 22:10:56 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:10:57 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:11:00 WARN  no build target for: /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java
+2026.03.20 22:11:00 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:11:00 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:11:00 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+mar 20, 2026 10:11:00 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2026.03.20 22:11:00 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:11:02 INFO  no build target found for /Users/santi21/github-actions/src/main/java/es/codeurjc/test/ejem/Calculadora.java. Using fallback presentation compiler.
+2026.03.20 22:11:11 INFO  no build target found for /Users/santi21/github-actions/src/test/java/es/codeurjc/test/ejem/Calculadora1Test.java. Using fallback presentation compiler.
+2026.03.20 22:11:11 INFO  no build target found for /Users/santi21/github-actions/src/test/java/es/codeurjc/test/ejem/Calculadora1Test.java. Using fallback presentation compiler.
+2026.03.20 22:11:11 INFO  no build target found for /Users/santi21/github-actions/src/test/java/es/codeurjc/test/ejem/Calculadora1Test.java. Using fallback presentation compiler.
+2026.03.20 22:11:11 INFO  no build target found for /Users/santi21/github-actions/src/test/java/es/codeurjc/test/ejem/Calculadora2Test.java. Using fallback presentation compiler.
+2026.03.20 22:11:12 INFO  no build target found for /Users/santi21/github-actions/src/test/java/es/codeurjc/test/ejem/Calculadora2Test.java. Using fallback presentation compiler.
